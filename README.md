@@ -1,0 +1,1 @@
+This is a personal programming exercise I'm working on to help me learn both Backbone.js and socket.io. It essentially converts the TodoMVC app into a networked todo list. It can be opened across multiple computers and changes in one should be reflected on all of the others. There is not a central data store, so these changes will not be persistent.
